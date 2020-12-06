@@ -1,0 +1,71 @@
+
+.grid {
+    display: grid;
+}
+
+.grid-cols-10 {
+    grid-template-columns: 10fr;
+}
+
+.w-64 {
+    width: 64px;
+}
+.w-56 {
+    width: 56px;
+}
+.w-48 {
+    width: 48px;
+}
+.w-40 {
+    width: 40px;
+}
+.w-32 {
+    width: 32px;
+}
+
+.h-3 {
+    height: 3px;
+}
+.h-4 {
+    height: 4px;
+}
+.h-5 {
+    height: 5px;
+}
+.h-6 {
+    height: 6px;
+}
+.h-7 {
+    height: 7px;
+}
+
+.bg-purple-50 {
+    background-color: purple 50;
+}
+.bg-purple-100{
+    background-color: purple 100;
+}
+.bg-purple-200{
+    background-color: purple 200;
+}
+.bg-purple-300{
+    background-color: purple 300;
+}
+.bg-purple-400{
+    background-color: purple 400;
+}
+.bg-purple-500{
+    background-color: purple 500;
+}
+.bg-purple-600{
+    background-color: purple 600;
+}
+.bg-purple-700{
+    background-color: purple 700;
+}
+.bg-purple-800{
+    background-color: purple 800;
+}
+.bg-purple-800{
+    background-color: purple 800;
+}
